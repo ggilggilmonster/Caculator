@@ -15,5 +15,5 @@ fun main() {
     addCalc.operation(20, 10)
     subtractCalc.operation(10, 5)
     multiplyCalc.operation(10, 3)
-    divideCalc.operation(60, 20)
+    divideCalc.operation(60, 0)
 }
